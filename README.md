@@ -1,0 +1,41 @@
+# Rust Learning Progress
+
+Working through [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) book (also known as "The Book").
+
+**Book URL:** https://doc.rust-lang.org/stable/book/
+
+---
+
+## About This Repository
+
+This repository contains my practice code and exercises while learning Rust from the official book. Each folder represents a different chapter or concept from the book.
+
+---
+
+## Development Environment
+
+- **Windows 11**
+- **macOS (latest)** - M4 MacBook Pro
+
+---
+
+## Tools Used
+
+- **RustRover** - JetBrains IDE for Rust development
+- **Cargo** - Rust's package manager and build system
+- **Rustup** - Rust toolchain installer and version manager
+
+---
+
+## Current Progress
+
+- **As of November 26th, 2025:** Starting Chapter 6 - Enums and Pattern Matching
+
+---
+
+**Copyright &copy; 2025-2026**
+<br>
+Zlatan Omerović <[ascent.ba@gmail.com](mailto:ascent.ba@gmail.com), [zlomerovic@hotmail.com](mailto:zlomerovic@hotmail.com)>
+
+
+All rights reserved.
