@@ -29,7 +29,12 @@ This repository contains my practice code and exercises while learning Rust from
 
 ## Current Progress
 
-- **As of November 26th, 2025:** Starting Chapter 6 - Enums and Pattern Matching
+- **November 26th, 2025 at 00:30:00h:** Starting Chapter 6 - Enums and Pattern Matching
+  - The match Control Flow Construct - https://doc.rust-lang.org/book/ch06-02-match.html
+
+
+- **November 25th, 2025:** Starting Chapter 6 - Enums and Pattern Matching
+  - Enums and Pattern Matching - https://doc.rust-lang.org/book/ch06-00-enums.html
 
 ---
 
