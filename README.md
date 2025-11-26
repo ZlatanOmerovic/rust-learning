@@ -29,6 +29,10 @@ This repository contains my practice code and exercises while learning Rust from
 
 ## Current Progress
 
+- **November 26th, 2025 at 09:10:00h:** Starting Chapter 6.3 - Concise Control Flow with if let and let else
+  - Concise Control Flow with if let and let else - https://doc.rust-lang.org/book/ch06-03-if-let.html
+
+
 - **November 26th, 2025 at 00:30:00h:** Starting Chapter 6 - Enums and Pattern Matching
   - The match Control Flow Construct - https://doc.rust-lang.org/book/ch06-02-match.html
 
